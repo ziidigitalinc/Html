@@ -1,0 +1,8 @@
+{
+  "name": "HTML Section Studio & Visual Designer",
+  "description": "Import or drop any HTML webpage to automatically separate into sections (Header, Hero, Features, Body, Footer), redesign visually with full font/color/shape controls, and export or copy section code with complete CSS for WordPress and page builders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
